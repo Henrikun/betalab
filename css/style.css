@@ -51,7 +51,7 @@ hr {
 }
 
 .section-title strong {
-	color: #0036d8;
+	color: #00C6D7;
   	font-size: 56px;
 }
 
@@ -67,7 +67,7 @@ hr {
   font-size: 32px !important;
 }
 
-#work,#about, #team,
+#work,#about, #team, 
 #portfolio, #pricing, #contact {
    padding-top: 100px;
   padding-bottom: 100px;
@@ -114,7 +114,7 @@ preloader section
   margin: 0 auto;
   width: 20%;
   height: 20%;
-  background-color: #0036d8;
+  background-color: #00c6d7;
   border-radius: 100%;
   -webkit-animation: sk-circleBounceDelay 1.2s infinite ease-in-out;
           animation: sk-circleBounceDelay 1.2s infinite ease-in-out;
@@ -215,12 +215,12 @@ navigation section
     margin-bottom: 0;
 }
 .custom-navbar .navbar-brand  {
-  color: #ffffff;
+  color: #00c6d7;
   font-weight: 600;
   font-size: 24px;
 }
 .custom-navbar .navbar-brand .navbar-toggle {
-    background: #ffffff;
+    background: #00c6d7;
     padding: 4px 6px;
     font-size: 16px;
     color: #fff;
@@ -240,14 +240,14 @@ navigation section
   outline: none;
 }
 .custom-navbar .nav li.active > a {
-      color: #0036d8;
+      color: #00c6d7;
     }
 .custom-navbar .navbar-toggle {
         border: none;
         padding-top: 10px;
     }
 .custom-navbar .navbar-toggle .icon-bar {
-        background: #0036d8;
+        background: #00c6d7;
         border-color: transparent;
     }
 @media(min-width:768px){
@@ -683,7 +683,7 @@ footer p {
   transition: all 0.4s ease-in-out;
 }
 .social-icon li a:hover {
-  color: #0036d8;
+  color: #00c6d7;
 }
 
 @media screen and (min-width: 992px) {
@@ -692,7 +692,7 @@ footer p {
     #portfolio .col-md-4 {
       width: 33.333%;
     }
-  }
+  }    
 }
 
 /* ==========================================================================
